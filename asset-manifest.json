@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kanotown.github.io/csb-0p5cxs/static/css/main.a512319f.chunk.css",
+    "main.js": "https://kanotown.github.io/csb-0p5cxs/static/js/main.092c4c3a.chunk.js",
+    "main.js.map": "https://kanotown.github.io/csb-0p5cxs/static/js/main.092c4c3a.chunk.js.map",
+    "runtime-main.js": "https://kanotown.github.io/csb-0p5cxs/static/js/runtime-main.3ea8c5b8.js",
+    "runtime-main.js.map": "https://kanotown.github.io/csb-0p5cxs/static/js/runtime-main.3ea8c5b8.js.map",
+    "static/js/2.55e6c999.chunk.js": "https://kanotown.github.io/csb-0p5cxs/static/js/2.55e6c999.chunk.js",
+    "static/js/2.55e6c999.chunk.js.map": "https://kanotown.github.io/csb-0p5cxs/static/js/2.55e6c999.chunk.js.map",
+    "index.html": "https://kanotown.github.io/csb-0p5cxs/index.html",
+    "static/css/main.a512319f.chunk.css.map": "https://kanotown.github.io/csb-0p5cxs/static/css/main.a512319f.chunk.css.map",
+    "static/js/2.55e6c999.chunk.js.LICENSE.txt": "https://kanotown.github.io/csb-0p5cxs/static/js/2.55e6c999.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea8c5b8.js",
+    "static/js/2.55e6c999.chunk.js",
+    "static/css/main.a512319f.chunk.css",
+    "static/js/main.092c4c3a.chunk.js"
+  ]
+}
